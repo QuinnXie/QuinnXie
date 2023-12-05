@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quinn Xie
 - 👀 I’m interested in interactions between control and aerial robotics
-- 📫 Please reach me by email kui.xie2021@gmail.com, if you want
+- 📫 Please reach me by email quinnxie@126.com, if you want
 <!---
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...

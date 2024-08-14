@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Quinn Xie
-- 👀 I’m interested in system identification, i.e., EKF, and active learning ...
+- 👀 I’m interested in Control and Learning.
+- ✨ Recently, I am working on system identification, i.e., EKF, and active learning ...
 - 📫 Reach me by email quinnxie@126.com please, if you want
 <!---
 - 🌱 I’m currently learning 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kui(Quinn) Xie
 - 👀 I’m interested in Control and Learning.
 - ✨ Recently, I am working on system identification, i.e., EKF, and active learning ...
-- 📫 Reach me by email quinnxie@126.com please, if you want
+- 📫 Reach me by email kui.xie2021@gmail.com please, if you want
 <!---
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...

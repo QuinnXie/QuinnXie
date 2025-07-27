@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kui(Quinn) Xie
 - 👀 I’m interested in Control and Learning.
-- ✨ Recently, I am working on system identification, i.e., EKF, and active learning ...
+- ✨ Recently, I am working on active learning and model predictive control
 - 📫 Reach me by email kui.xie2021@gmail.com please, if you want
 <!---
 - 🌱 I’m currently learning 
